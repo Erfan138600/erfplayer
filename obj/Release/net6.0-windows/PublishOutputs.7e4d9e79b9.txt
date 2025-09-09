@@ -1,0 +1,12 @@
+D:\New folder\player\bin\Release\net6.0-windows\publish\Emuzic.exe
+D:\New folder\player\bin\Release\net6.0-windows\publish\Emuzic.dll
+D:\New folder\player\bin\Release\net6.0-windows\publish\Emuzic.deps.json
+D:\New folder\player\bin\Release\net6.0-windows\publish\Emuzic.runtimeconfig.json
+D:\New folder\player\bin\Release\net6.0-windows\publish\Emuzic.pdb
+D:\New folder\player\bin\Release\net6.0-windows\publish\NAudio.dll
+D:\New folder\player\bin\Release\net6.0-windows\publish\NAudio.Asio.dll
+D:\New folder\player\bin\Release\net6.0-windows\publish\NAudio.Core.dll
+D:\New folder\player\bin\Release\net6.0-windows\publish\NAudio.Midi.dll
+D:\New folder\player\bin\Release\net6.0-windows\publish\NAudio.Wasapi.dll
+D:\New folder\player\bin\Release\net6.0-windows\publish\NAudio.WinForms.dll
+D:\New folder\player\bin\Release\net6.0-windows\publish\NAudio.WinMM.dll
